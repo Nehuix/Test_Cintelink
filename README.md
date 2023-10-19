@@ -11,15 +11,11 @@ Donde cada transacción extra se deberá cargar directamente a continuación sin
 
 La cadena provista de testeo es la siguiente:
 [06/02/22 00:16:03]\0XTT 5547A-10030[05/02/22 23:16:27]\0AXJ 3658G008015[05/02/22 23:45:33]\0YCC 9001G32313
+![imagen](https://github.com/Nehuix/Test_Cintelink/assets/87344666/83297a91-e4ed-427e-9945-5ec09d85dc8e)
+
 
 Y la salida será:
 ![imagen](https://github.com/Nehuix/Test_Cintelink/assets/87344666/4d3ac204-52e1-4257-bc63-ac261a628c46)
 
-
-Log generado:
-[05/02/22 23:16:27] id: 00015, reg: AXJ 3658, prod: G, ltrs: +000080
-[05/02/22 23:45:33] id: 00003, reg: YCC 9001, prod: G, ltrs: +003231
-[06/02/22 00:16:03] id: 00030, reg: XTT 5547, prod: A, ltrs: -000100
-Total de bytes escritos: 207
 
 Finalmente, pido disculpas por no cumplir la consigna en su totalidad y agradezco por la oportunidad de probar mis conocimientos.
