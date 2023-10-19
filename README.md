@@ -1,4 +1,4 @@
-![imagen](https://github.com/Nehuix/Test_Cintelink/assets/87344666/e1e3398e-b769-4a41-9cbb-38cfc626ab05)# Test_Cintelink
+Test_Cintelink
 Código propuesto para resolución de test provisto por Cintelink.
 
 Este proyecto es un generador de log de transacciones de combustible en lenguaje C. Permite procesar datos de transacciones y generar un registro ordenado por fecha y hora. A continuación, se proporcionan detalles sobre cómo usar y personalizar el generador de log.
@@ -13,7 +13,8 @@ La cadena provista de testeo es la siguiente:
 [06/02/22 00:16:03]\0XTT 5547A-10030[05/02/22 23:16:27]\0AXJ 3658G008015[05/02/22 23:45:33]\0YCC 9001G32313
 
 Y la salida será:
-![imagen](https://github.com/Nehuix/Test_Cintelink/assets/87344666/0cd02af6-33d5-4424-93d3-ba9601529514)
+![imagen](https://github.com/Nehuix/Test_Cintelink/assets/87344666/4d3ac204-52e1-4257-bc63-ac261a628c46)
+
 
 Log generado:
 [05/02/22 23:16:27] id: 00015, reg: AXJ 3658, prod: G, ltrs: +000080
